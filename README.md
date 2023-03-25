@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
