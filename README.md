@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+docs: update view-results-in-terminal.md (#66)
