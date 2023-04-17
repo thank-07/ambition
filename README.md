@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
