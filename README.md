@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add quantization support to TensorFlow.js converter (#7008)
