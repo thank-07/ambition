@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+New HUB Cloud Training docs page (#8174)
