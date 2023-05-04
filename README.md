@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
