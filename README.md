@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update Docs language dropdown height (#6927)
