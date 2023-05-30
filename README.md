@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Fix Neural Magic links (#9144)
