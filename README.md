@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Fix device counting method to account for double-digit device IDs (#8502)
