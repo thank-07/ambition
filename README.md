@@ -1,1 +1,1 @@
-fix resume training
+Clean up unused imgsz (#7771)
