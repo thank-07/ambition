@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+OpenVino 2024.0.0 (#8726)
