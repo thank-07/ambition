@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
