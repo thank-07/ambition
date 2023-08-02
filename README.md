@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
