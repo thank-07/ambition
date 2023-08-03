@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add missing single-line docstrings (#8362)
