@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Fix Neural Magic links (#9144)
