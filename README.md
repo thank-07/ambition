@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update CI.md with CI links (#8786)
