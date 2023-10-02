@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Updated SQL Query Plot Code (#8120)
