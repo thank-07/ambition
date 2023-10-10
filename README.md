@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
