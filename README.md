@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Update Docs Home and Neural Magic pages (#7243)
