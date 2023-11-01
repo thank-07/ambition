@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
