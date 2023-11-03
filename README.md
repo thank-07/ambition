@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
