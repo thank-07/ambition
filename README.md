@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
