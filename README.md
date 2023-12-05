@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
