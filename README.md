@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add visuals in guides/distance-calculation.md (#7876)
