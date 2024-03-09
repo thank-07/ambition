@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
