@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Fix OpenVINO missing batch-size bug (#9264)
