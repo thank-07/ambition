@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+added badges (#45)
