@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update IoU capitalization (#8604)
