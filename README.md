@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
