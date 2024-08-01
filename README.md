@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fix PIL show() and save() (#8202)
