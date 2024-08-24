@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
