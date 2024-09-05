@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+* fix for predicting with batch_size > 1
