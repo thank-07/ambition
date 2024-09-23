@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
