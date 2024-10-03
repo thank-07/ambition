@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Improve Coral Edge TPU guide (#8160)
