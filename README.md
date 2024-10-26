@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
