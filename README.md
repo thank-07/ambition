@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
